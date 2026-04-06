@@ -1,0 +1,7 @@
+{
+  "discord_email": "xx@gmail.com",
+  "discord_password": "xxx",
+  "channel_url": "",
+  "message_to_send": "/hourly",
+  "send_interval_minutes": 60
+}

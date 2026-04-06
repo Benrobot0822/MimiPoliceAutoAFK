@@ -1,0 +1,2 @@
+# Selenium 自動化版本依賴
+selenium>=4.10.0
